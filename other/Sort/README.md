@@ -4,7 +4,7 @@
 
 代码部分由本人亲自手写,有问题望告知。
 
-其中[file_path.py](https://github.com/water674/Zergen.X/blob/%E6%8E%92%E5%BA%8F/file_path.py)文件表示保存的文件路径;[generate_and_assess.py]([https://github.com/water674/Zergen.X/blob/%E6%8E%92%E5%BA%8F/generate_and_assess.py](https://github.com/water674/LeeCode/blob/main/other/Sort/generate_and_assess.py))文件有生成随机数组,判断排序是否成功和排序所用时间的功能.
+其中[file_path.py](https://github.com/water674/LeeCode/blob/main/other/Sort/file_path.py)文件表示保存的文件路径;[generate_and_assess.py](https://github.com/water674/LeeCode/blob/main/other/Sort/generate_and_assess.py)文件有生成随机数组,判断排序是否成功和排序所用时间的功能.
 
   | 排序算法     | 平均时间复杂度 | 最好情况        | 最坏情况          | 空间复杂度     |   排序方式   | 稳定性   |
   | ------------ | ------------- | -------------  | -----------------| -----------   | ---------    | --------|
